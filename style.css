@@ -13,12 +13,54 @@ header{
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
+    
 }
+.cabezario-logotipo{
+    width: 30%;
 
+}
 .cabezario-lista-item{
     display: inline-block;
     margin: 0 17px;
     padding: 24px 0;
     font-size: 18px;
-    font-style: oblique;
+    font-style: normal;
+    font-family: 'Inter', sans-serif;
 }
+
+.inicio-titulo{
+    background-image: url(imagen-inicio-titulo.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 10%;
+    height: 350px;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 40px 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+.inicio-2{
+    background-color: #3B5110;
+    color: white;
+    display: flex;
+    padding: 35px 0px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+
+.inicio-2-contenido{
+    width: 90%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.inicio-titulo-2{
+    padding: 100px 300px;
+}
+
