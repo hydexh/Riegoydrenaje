@@ -64,3 +64,68 @@ header{
     padding: 100px 300px;
 }
 
+.imagen-riego-agricola{
+    width: 100%;
+   
+}
+
+.imagen-evaluacion-de-riego{
+    width: 100%;
+}
+
+.imagen-drenaje-agricola{
+    width: 100%;
+}
+
+.imagen-bombas-agricolas{
+    width: 100%;
+}
+
+.servicios-div{
+    text-align: center;
+    height: 5%;
+    padding: 5%;
+    background-color: #F2F2F2;
+
+}
+
+.texto-acerca-de-mi{
+    background-image: url(imagen-2.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 10%;
+    height: 350px;
+    justify-content: center;
+    display: flex;
+    color: black;
+    font-size: 40px 0px;
+    font-family: 'Inter', sans-serif;
+    display: inline-block;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon{
+    width: 24px;
+    padding: 1%;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+.titulo-contactanos{
+    width: 24px;
+    padding: 1%;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+.rodapie-final{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    padding: 1%;
+    height: 1%;
+    font-size: 18px;
+}
